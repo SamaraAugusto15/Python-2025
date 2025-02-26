@@ -8,3 +8,6 @@ Reestudando para memorizar o q preciso e aprender
 a fazer as coisas da forma correta
 
 ## Arquivos
+
+read, write, read_csv
+split, strip
